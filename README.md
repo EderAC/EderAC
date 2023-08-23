@@ -4,9 +4,9 @@ I'm a software engineer, <img src="https://static.wikia.nocookie.net/mtgsalvatio
 
 <div>
 
-  <img align="left" src="https://github-readme-stats-lime-eta-70.vercel.app/api?username=EderAC&show_icons=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula&count-private=true" />
+  <img align="left" src="https://github-readme-stats-ederac.vercel.app/api?username=EderAC&show_icons=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula&count-private=true" />
 
-  <img align="left" src="https://github-readme-stats-ddv2sb4pt-ederac.vercel.app/api/top-langs/?username=EderAC&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats-ederac.vercel.app/api/top-langs/?username=EderAC&show_icons=true&hide_border=true&theme=dracula" />
 
 </div>
 
