@@ -1,14 +1,18 @@
-### Hi there, I'm Eder Chiquito. Weelcome to my page👋
+# Hi there, I'm Eder Chiquito.👋
 
-<div align="center">
-  <a href="https://github.com/EderAC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderAC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderAC&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+I'm a software engineer, <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/7/7b/LTR_expansion_symbol.png/revision/latest?cb=20230221204226" width="20" /> LOTR biggest fan and a Magic the Gathering player.
 
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,postgres)](https://skillicons.dev)
- </div>
+
+  <img align="left" src="https://github-readme-stats-lime-eta-70.vercel.app/api?username=EderAC&show_icons=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula&count-private=true" />
+
+  <img align="left" src="https://github-readme-stats-ddv2sb4pt-ederac.vercel.app/api/top-langs/?username=EderAC&show_icons=true&hide_border=true&theme=dracula" />
+
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,tailwind,nodejs,postgres)](https://skillicons.dev)
+
+## 🚧 Profile under construction
 <!--
 **EderAC/EderAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
