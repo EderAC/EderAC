@@ -12,7 +12,6 @@ I'm a software engineer, <img src="https://static.wikia.nocookie.net/mtgsalvatio
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,tailwind,nodejs,postgres)](https://skillicons.dev)
 
-## 🚧 Profile under construction
 <!--
 **EderAC/EderAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
